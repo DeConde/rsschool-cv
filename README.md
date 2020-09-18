@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DeConde.github.io/rsschool-cv/cv
