@@ -1,5 +1,5 @@
 #**Akhmetov Ildar **
-+7 (912) 0220010 Ч preferred means of communication
++7 (912) 0220010 - preferred means of communication
 golardoenzo@yandex.ru
 Reside in: Izhevsk
 
@@ -16,43 +16,43 @@ Code example: https://github.com/DeConde/Frontend
 
 ##**Work experience** 
 
-September 2020 Ч till now
+September 2020 - till now
 ###**ELMA LLC**
 Izhevsk
 ###Automation engineer
 Testing platform of business process management.
 
-May 2020 Ч September 2020
+May 2020 - September 2020
 ###**Upwork.com**
 ###Freelancer
 Execution of orders.
 Used the following technologies: HTML, CSS, CSS FlexBox, SASS/SCSS, jQuery, JavaScript, Chrome DevTools, SQL, Git, adaptive and mobile layout.
 
-August 2013 Ч May 2020
+August 2013 - May 2020
 ###**Ural LLC** 
 Izhevsk
 ###Lawyer 
 
-March 2017 Ч June 2019
+March 2017 - June 2019
 ###**INFO Man LLC**
 Moscow
 ###Front-end developer
 Worked remotely. Development of the frontend part of the project( CMS, marketplace), user interface components, adaptive and mobile site layout, implementation and improvement of functionality, optimization of program code and layout, semantic layout, code refactoring, studying and updating the code of the previous developer, working with the version control system and repository.
 Used the following technologies: Javascript, jQuery, HTML5, BEM, CSS3, CSS flexbox, SCSS/SASS, Git, CMS WordPress.
 
-April 2013 Ч May 2014
+April 2013 - May 2014
 ###**New Wave LLC**
 Samara
 ###Front-end developer
 Worked remotely. Working with the frontend of the company's product, improving the system functionality, cross-browser layout of sites, modifying styles, optimizing the client part, client programming js, code review, creating a repository, working with the version control system.
 Used the following technologies: Javascript, jQuery, HTML, CSS, Git, CMS Joomla.
 
-March 2012 Ч April 2013
+March 2012 - April 2013
 ###**Financial management Zavyalovsky district of the UR**
 Izhevsk
 ###Lawyer 
 
-November 2007 Ч August 2011
+November 2007 - August 2011
 ###**Home Credit and Finance Bank LLC**
 Izhevsk
 ###Lawyer 
@@ -74,5 +74,5 @@ Institute of law, social management and security. Lawyer
 
 
 ##**Languages**
-Russian Ч Native
-English Ч A2 Ч Advanced
+Russian - Native
+English - A2 - Advanced
